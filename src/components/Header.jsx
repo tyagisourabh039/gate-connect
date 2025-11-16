@@ -94,8 +94,7 @@ function Header(props) {
             onClick={handleDrawerToggle}
             sx={{ mr: 2, display: { sm: 'none' } }}
           >
-            MUI
-        
+          Gate Connect
           </IconButton>
          
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
@@ -117,7 +116,7 @@ function Header(props) {
             color="inherit"
             sx={{ display: { xs: 'none', sm: 'block' },mr: 2 }}
           >
-            MUI
+           Gate Connect
         
           </IconButton>
       </AppBar>
